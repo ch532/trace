@@ -1,0 +1,13 @@
+<!-- Minimal manifest snippet for ad SDKs -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trace_ads">
+    <application
+        android:label="trace_ads"
+        android:icon="@mipmap/ic_launcher">
+        <!-- AdMob/Appodeal permissions -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx"/>
+        <!-- Unity, Start.io, etc. may require additional config -->
+    </application>
+</manifest>
