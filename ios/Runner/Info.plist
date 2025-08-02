@@ -1,0 +1,4 @@
+<!-- Add required keys for ad SDKs here -->
+<key>GADApplicationIdentifier</key>
+<string>ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx</string>
+<!-- For Appodeal/Unity/Start.io add additional keys as required -->
